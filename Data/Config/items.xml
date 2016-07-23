@@ -1743,7 +1743,7 @@ Item ID ranges:       Master items (if applicable) are listed at the start of th
 	<property name="Meshfile" value="Items/Weapons/Ranged/SawedOffPumpShotgun/shotgunShellPrefab" />
 	<property name="Material" value="brass" />
 	<property name="HoldType" value="21" />
-	<property name="Stacknumber" value="128" /> <!-- STK ammo -->
+	<property name="Stacknumber" value="250" /> <!-- STK ammo -->
 	<property name="Group" value="Ammo/Weapons" />
 	<property class="Attributes">
 		<property name="GetQualityFromWeapon" value="true" />
@@ -1784,7 +1784,7 @@ Item ID ranges:       Master items (if applicable) are listed at the start of th
 	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab" />
 	<property name="Material" value="paper" />
 	<property name="HoldType" value="45" />
-	<property name="Stacknumber" value="128" /> <!-- STK ammo -->
+	<property name="Stacknumber" value="250" /> <!-- STK ammo -->
 	<property name="DropScale" value="4" />
 	<property name="Group" value="Ammo/Weapons" />
 	<property name="CraftingSkillGroup" value="Gun Smithing"/>
