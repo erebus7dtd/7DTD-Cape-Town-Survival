@@ -4,14 +4,65 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
 -->
 <recipes>
 <!-- CUSTOM -->
-<recipe name="nailgun" count="1" scrapable="false" craft_time="45">
-<ingredient name="partsSniperRifle_parts" count="1" grid="0, 0" />
-<ingredient name="ductTape" count="1" grid="1, 1" />
-<ingredient name="scrapCable" count="1" grid="1, 0" />
-<ingredient name="forgedSteel" count="1" grid="1, -1" />
-<ingredient name="spring" count="5" grid="0, -1" />
-<ingredient name="oil" count="1" grid="-1, -1" />
-<ingredient name="partsPumpShotgun_receiver" count="1" grid="-1, 0" />
+
+<recipe name="militaryGloves" count="1" scrapable="True">
+	<ingredient name="forgedSteel" count="25"/>
+	<ingredient name="leather" count="10"/>
+	<ingredient name="ductTape" count="5"/>
+</recipe>
+
+<recipe name="militaryHelmet" count="1" scrapable="True">
+	<ingredient name="forgedSteel" count="25"/>
+	<ingredient name="leather" count="10"/>
+	<ingredient name="ductTape" count="5"/>
+</recipe>
+
+<recipe name="militaryBoots" count="1" scrapable="True">
+	<ingredient name="forgedSteel" count="25"/>
+	<ingredient name="leather" count="10"/>
+	<ingredient name="ductTape" count="5"/>
+</recipe>
+
+<recipe name="militaryLegArmor" count="1" scrapable="True">
+	<ingredient name="forgedSteel" count="25"/>
+	<ingredient name="leather" count="10"/>
+	<ingredient name="ductTape" count="5"/>
+</recipe>
+
+<recipe name="militaryVest" count="1" scrapable="True">
+	<ingredient name="forgedSteel" count="25"/>
+	<ingredient name="leather" count="10"/>
+	<ingredient name="ductTape" count="5"/>
+</recipe>
+
+<recipe name="hazmatBoots" count="1" scrapable="True">
+	<ingredient name="forgedSteel" count="25"/>
+	<ingredient name="leather" count="10"/>
+	<ingredient name="ductTape" count="5"/>
+</recipe>
+
+<recipe name="hazmatPants" count="1" scrapable="True">
+	<ingredient name="forgedSteel" count="25"/>
+	<ingredient name="leather" count="10"/>
+	<ingredient name="ductTape" count="5"/>
+</recipe>
+
+<recipe name="hazmatShirt" count="1" scrapable="True">
+	<ingredient name="forgedSteel" count="25"/>
+	<ingredient name="leather" count="10"/>
+	<ingredient name="ductTape" count="5"/>
+</recipe>
+
+<recipe name="hazmatGloves" count="1" scrapable="True">
+	<ingredient name="forgedSteel" count="25"/>
+	<ingredient name="leather" count="10"/>
+	<ingredient name="ductTape" count="5"/>
+</recipe>
+
+<recipe name="hazmatMask" count="1" scrapable="True">
+	<ingredient name="forgedSteel" count="25"/>
+	<ingredient name="leather" count="10"/>
+	<ingredient name="ductTape" count="5"/>
 </recipe>
 
 <recipe name="machete" count="1" scrapable="True" craft_time="30">
