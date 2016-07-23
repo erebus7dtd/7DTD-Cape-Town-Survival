@@ -4537,7 +4537,7 @@ Item ID ranges:       Master items (if applicable) are listed at the start of th
 	<property name="Meshfile" value="Items/Food/aloeCreamPrefab" />
 	<property name="Material" value="organic" />
 	<property name="HoldType" value="3" />
-	<property name="Stacknumber" value="15" /> <!-- STK medical -->
+	<property name="Stacknumber" value="50" /> <!-- STK medical -->
 	<property class="Action0">
 		<property name="Class" value="UseOther" />
 		<property name="Delay" value="1.0" />
@@ -4567,7 +4567,7 @@ Item ID ranges:       Master items (if applicable) are listed at the start of th
 	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab" />
 	<property name="Material" value="cloth" />
 	<property name="HoldType" value="16" />
-	<property name="Stacknumber" value="5" /> <!-- STK medical -->
+	<property name="Stacknumber" value="50" /> <!-- STK medical -->
 	<property name="FuelValue" value="1" />
 	<property name="Weight" value="5" />
 	<property class="Action0">
@@ -4825,7 +4825,7 @@ Item ID ranges:       Master items (if applicable) are listed at the start of th
 	<property name="Meshfile" value="Items/Food/honeyPrefab" />
 	<property name="Material" value="organic" />
 	<property name="HoldType" value="3" />
-	<property name="Stacknumber" value="10" /> <!-- STK food -->
+	<property name="Stacknumber" value="50" /> <!-- STK food -->
 	<property class="Action1">
 		<property name="Class" value="Eat" />
 		<property name="Delay" value="1.0" />
@@ -4865,7 +4865,7 @@ Item ID ranges:       Master items (if applicable) are listed at the start of th
 	<property name="Meshfile" value="Items/Food/yucca_juicePrefab" />
 	<property name="Material" value="organic" />
 	<property name="HoldType" value="3" />
-	<property name="Stacknumber" value="15" /> <!-- STK drink -->
+	<property name="Stacknumber" value="50" /> <!-- STK drink -->
 	<property class="Action1">
 		<property name="Class" value="Eat" />
 		<property name="Delay" value="1.0" />
@@ -5513,7 +5513,7 @@ Item ID ranges:       Master items (if applicable) are listed at the start of th
 	<property name="Meshfile" value="Items/Food/bottledRiverWaterPrefab" />
 	<property name="Material" value="glass" />
 	<property name="HoldType" value="3" />
-	<property name="Stacknumber" value="15" /> <!-- STK resource -->
+	<property name="Stacknumber" value="50" /> <!-- STK resource -->
 	<property name="Weight" value="10" />
 	<property name="CraftingIngredientTime" value="10" />
 	<property class="Action1">
@@ -5539,7 +5539,7 @@ Item ID ranges:       Master items (if applicable) are listed at the start of th
 	<property name="Meshfile" value="Items/Food/bottled_waterPrefab" />
 	<property name="Material" value="glass" />
 	<property name="HoldType" value="3" />
-	<property name="Stacknumber" value="15" /> <!-- STK drink -->
+	<property name="Stacknumber" value="50" /> <!-- STK drink -->
 	<property name="Weight" value="10" />
 	<property name="CraftingIngredientTime" value="15" />
 	<property class="Action1">
@@ -5562,7 +5562,7 @@ Item ID ranges:       Master items (if applicable) are listed at the start of th
 	<property name="Material" value="glass" />
 	<property name="HoldType" value="3" />
 	<property name="Weight" value="10" />
-	<property name="Stacknumber" value="15" /> <!-- STK drink -->
+	<property name="Stacknumber" value="50" /> <!-- STK drink -->
 	<property class="Action1">
 		<property name="Class" value="Eat" />
 		<property name="Delay" value="1.0" />
@@ -5583,7 +5583,7 @@ Item ID ranges:       Master items (if applicable) are listed at the start of th
 	<property name="Material" value="glass" />
 	<property name="HoldType" value="3" />
 	<property name="Weight" value="10" />
-	<property name="Stacknumber" value="15" /> <!-- STK drink -->
+	<property name="Stacknumber" value="50" /> <!-- STK drink -->
 	<property class="Action1">
 		<property name="Class" value="Eat" />
 		<property name="Delay" value="1.0" />
@@ -5605,7 +5605,7 @@ Item ID ranges:       Master items (if applicable) are listed at the start of th
 	<property name="Material" value="organic" />
 	<property name="HoldType" value="3" />
 	<property name="Weight" value="10" />
-	<property name="Stacknumber" value="15" /> <!-- STK drink -->
+	<property name="Stacknumber" value="50" /> <!-- STK drink -->
 	<property class="Action1">
 		<property name="Class" value="Eat" />
 		<property name="Delay" value="1.0" />
@@ -5627,7 +5627,7 @@ Item ID ranges:       Master items (if applicable) are listed at the start of th
 	<property name="Material" value="glass" />
 	<property name="HoldType" value="3" />
 	<property name="Weight" value="10" />
-	<property name="Stacknumber" value="15" /> <!-- STK drink -->
+	<property name="Stacknumber" value="50" /> <!-- STK drink -->
 	<property class="Action1">
 		<property name="Class" value="Eat" />
 		<property name="Delay" value="1" />
@@ -5648,7 +5648,7 @@ Item ID ranges:       Master items (if applicable) are listed at the start of th
 	<property name="Material" value="glass" />
 	<property name="HoldType" value="3" />
 	<property name="Weight" value="10" />
-	<property name="Stacknumber" value="15" /> <!-- STK resource -->
+	<property name="Stacknumber" value="50" /> <!-- STK resource -->
 	<property class="Action1">
 		<property name="Class" value="Eat" />
 		<property name="Delay" value="1" />
@@ -6371,7 +6371,7 @@ Item ID ranges:       Master items (if applicable) are listed at the start of th
 	<property name="Meshfile" value="Items/Crafting/animal_hidePrefab" />
 	<property name="Material" value="organic" />
 	<property name="HoldType" value="21" />
-	<property name="Stacknumber" value="250" /> <!-- STK resource -->
+	<property name="Stacknumber" value="500" /> <!-- STK resource -->
 	<property name="FuelValue" value="5" />
 	<property name="Group" value="Resources" />
 	<property name="CraftingIngredientTime" value="2" />
@@ -6383,7 +6383,7 @@ Item ID ranges:       Master items (if applicable) are listed at the start of th
 	<property name="Material" value="leather" />
 	<property name="RepairAmount" value="80" />
 	<property name="HoldType" value="21" />
-	<property name="Stacknumber" value="250" /> <!-- STK resource -->
+	<property name="Stacknumber" value="500" /> <!-- STK resource -->
 	<property name="FuelValue" value="5" />
 	<property name="Group" value="Resources,Clothing" />
 	<property name="CraftingIngredientTime" value="2" />
@@ -6453,7 +6453,7 @@ Item ID ranges:       Master items (if applicable) are listed at the start of th
 	<property name="Meshfile" value="Items/Crafting/cloth" />
 	<property name="Material" value="cloth" />
 	<property name="HoldType" value="14" />
-	<property name="Stacknumber" value="250" /> <!-- STK resource -->
+	<property name="Stacknumber" value="500" /> <!-- STK resource -->
 	<property name="RepairAmount" value="50" />
 	<property name="FuelValue" value="1" />
 	<property name="Weight" value="5" />
@@ -6466,7 +6466,7 @@ Item ID ranges:       Master items (if applicable) are listed at the start of th
 	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab" />
 	<property name="HoldType" value="45" />
 	<property name="Material" value="paper" />
-	<property name="Stacknumber" value="250" /> <!-- STK resource -->
+	<property name="Stacknumber" value="500" /> <!-- STK resource -->
 	<property name="FuelValue" value="1" />
 	<property name="Weight" value="1" />
 	<property name="Group" value="Decor/Miscellaneous" />
@@ -6500,7 +6500,7 @@ Item ID ranges:       Master items (if applicable) are listed at the start of th
 	<property name="Meshfile" value="Items/Crafting/featherPrefab" />
 	<property name="Material" value="cloth" />
 	<property name="HoldType" value="21" />
-	<property name="Stacknumber" value="250" /> <!-- STK resource -->
+	<property name="Stacknumber" value="500" /> <!-- STK resource -->
 	<property name="FuelValue" value="1" />
 	<property name="Group" value="Resources" />
 </item>
@@ -6550,7 +6550,7 @@ Item ID ranges:       Master items (if applicable) are listed at the start of th
 	<property name="Meshfile" value="Items/Crafting/gun_powderPrefab" />
 	<property name="Material" value="dirt" />
 	<property name="HoldType" value="21" />
-	<property name="Stacknumber" value="500" /> <!-- STK resource -->
+	<property name="Stacknumber" value="1000" /> <!-- STK resource -->
 	<property name="Group" value="Resources,Ammo/Weapons,Tools/Traps" />
 	<property name="CraftingSkillGroup" value="Gun Smithing"/>
 </item>
@@ -6720,7 +6720,7 @@ Item ID ranges:       Master items (if applicable) are listed at the start of th
 	<property name="Meshfile" value="Items/Food/emptyJarPrefab" />
 	<property name="Material" value="glass" />
 	<property name="HoldType" value="3" />
-	<property name="Stacknumber" value="15" /> <!-- STK resource -->
+	<property name="Stacknumber" value="50" /> <!-- STK resource -->
 	<property name="Weight" value="10" />
 	<property name="CraftingIngredientTime" value="9" />
 	<property class="Action1"> <!-- UseAction -->
@@ -6834,7 +6834,7 @@ Item ID ranges:       Master items (if applicable) are listed at the start of th
 	<property name="Meshfile" value="Items/Crafting/radiator" />
 	<property name="Material" value="brass" />
 	<property name="HoldType" value="21" />
-	<property name="Stacknumber" value="5" /> <!-- STK loot -->
+	<property name="Stacknumber" value="50" /> <!-- STK loot -->
 	<property name="Weight" value="50" />
 	<property name="Group" value="Resources" />
 </item>
