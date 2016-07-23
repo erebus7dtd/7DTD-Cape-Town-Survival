@@ -8,30 +8,35 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
 <recipe name="militaryGloves" count="1" scrapable="True">
 	<ingredient name="forgedSteel" count="25"/>
 	<ingredient name="leather" count="10"/>
+	<ingredient name="militaryFiber" count="1"/>
 	<ingredient name="ductTape" count="5"/>
 </recipe>
 
 <recipe name="militaryHelmet" count="1" scrapable="True">
 	<ingredient name="forgedSteel" count="25"/>
 	<ingredient name="leather" count="10"/>
+	<ingredient name="militaryFiber" count="1"/>
 	<ingredient name="ductTape" count="5"/>
 </recipe>
 
 <recipe name="militaryBoots" count="1" scrapable="True">
 	<ingredient name="forgedSteel" count="25"/>
 	<ingredient name="leather" count="10"/>
+	<ingredient name="militaryFiber" count="1"/>
 	<ingredient name="ductTape" count="5"/>
 </recipe>
 
 <recipe name="militaryLegArmor" count="1" scrapable="True">
 	<ingredient name="forgedSteel" count="25"/>
 	<ingredient name="leather" count="10"/>
+	<ingredient name="militaryFiber" count="1"/>
 	<ingredient name="ductTape" count="5"/>
 </recipe>
 
 <recipe name="militaryVest" count="1" scrapable="True">
 	<ingredient name="forgedSteel" count="25"/>
 	<ingredient name="leather" count="10"/>
+	<ingredient name="militaryFiber" count="2"/>
 	<ingredient name="ductTape" count="5"/>
 </recipe>
 
@@ -66,11 +71,17 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
 </recipe>
 
 <recipe name="machete" count="1" scrapable="True" craft_time="30">
-<ingredient name="forgedSteel" count="5" grid="0, -1" />
-<ingredient name="ductTape" count="1" grid="0, 0" />
-<ingredient name="parts44Magnum_grip" count="1" grid="0, 1" />
+<ingredient name="forgedSteel" count="5" />
+<ingredient name="ductTape" count="1" />
+<ingredient name="parts44Magnum_grip" />
 </recipe>
 
+<recipe name="nailgun" count="1" scrapable="False" craft_time="45">
+<ingredient name="partsPumpShotgun_receiver" count="1" /> />
+<ingredient name="partsSniperRifle_parts" count="1" />
+<ingredient name="oil" count="1" />
+<ingredient name="forgedSteel" count="5" />
+</recipe>
 <!-- * * * * * * * * * * * * scrap and forge-emptying recipes * * * * * * * * * * * * -->
 <recipe name="militaryFiber" count="1" scrapable="False" tooltip="ttScrapMetalBrass">
 	<wildcard_forge_category />
