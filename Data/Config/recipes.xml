@@ -79,6 +79,8 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
 <recipe name="flashlight02" count="1" scrapable="True" craft_time="30">
 <ingredient name="forgedSteel" count="5" />
 <ingredient name="brokenGlass" count="5" />
+<ingredient name="scrapCable" count="5" />
+<ingredient name="spring" count="2" />
 </recipe>
 
 <recipe name="nailgun" count="1" scrapable="False" craft_time="45">
@@ -577,17 +579,17 @@ tooltip?
 	<ingredient name="forgedIron" count="7"/>
 </recipe>
 
-<recipe name="buckshot" count="2" scrapable="False" craft_area="forge" craft_tool="anvil" material_based="true">
+<recipe name="buckshot" count="1" scrapable="False" craft_area="forge" craft_tool="anvil" material_based="true">
 	<ingredient name="unit_lead" count="2"/>
 	<ingredient name="unit_clay" count="1"/>
 </recipe>
 
-<recipe name="bulletCasing" count="2" scrapable="False" craft_area="forge" craft_tool="calipers" material_based="true">
+<recipe name="bulletCasing" count="1" scrapable="False" craft_area="forge" craft_tool="calipers" material_based="true">
 	<ingredient name="unit_brass" count="1"/>
 	<ingredient name="unit_clay" count="1"/>
 </recipe>
 
-<recipe name="bulletTip" count="2" scrapable="False" craft_area="forge" craft_tool="anvil" material_based="true">
+<recipe name="bulletTip" count="1" scrapable="False" craft_area="forge" craft_tool="anvil" material_based="true">
 	<ingredient name="unit_lead" count="1"/>
 	<ingredient name="unit_clay" count="1"/>
 </recipe>
@@ -1228,9 +1230,9 @@ tooltip?
 	<ingredient name="partsPistol_grip" count="1"/>
 </recipe>
 
-<recipe name="gunPowder" count="10" scrapable="False">
-	<ingredient name="coal" count="5"/>
-	<ingredient name="potassiumNitratePowder" count="5"/>
+<recipe name="gunPowder" count="1" scrapable="False">
+	<ingredient name="coal" count="1"/>
+	<ingredient name="potassiumNitratePowder" count="1"/>
 </recipe>
 
 <recipe name="gunPumpShotgun" count="1" scrapable="True" craft_area="assembly">
