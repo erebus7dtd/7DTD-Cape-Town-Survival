@@ -3236,7 +3236,7 @@ Item ID ranges:       Master items (if applicable) are listed at the start of th
 </item>
 
 <item id="390" name="militaryGloves"> <!-- armorMastermilitaryArmor -->
-	<property name="Insulation" value="6"/>
+	<property name="Insulation" value="0"/>
 	<property name="Waterproof" value="0.12"/>
 	<property name="Encumbrance" value="0.05"/>
 	<property name="Material" value="militaryFiber" />
@@ -3267,6 +3267,7 @@ Item ID ranges:       Master items (if applicable) are listed at the start of th
 </item>
 
 <item id="391" name="militaryHelmet"> <!-- militaryArmor -->
+	<property name="Insulation" value="6"/>
 	<property name="Extends" value="militaryGloves" />
 	<property name="EquipSlot" value="Head" />
 	<property name="Weight" value="5"/>
@@ -3281,6 +3282,7 @@ Item ID ranges:       Master items (if applicable) are listed at the start of th
 </item>
 
 <item id="392" name="militaryBoots"> <!-- militaryArmor -->
+	<property name="Insulation" value="6"/>
 	<property name="Extends" value="militaryGloves" />
 	<property name="Weight" value="5" />
 	<property name="EquipSlot" value="Feet" />
@@ -3293,6 +3295,7 @@ Item ID ranges:       Master items (if applicable) are listed at the start of th
 </item>
 
 <item id="393" name="militaryLegArmor"> <!-- militaryArmor -->
+	<property name="Insulation" value="0"/>
 	<property name="Extends" value="militaryGloves" />
 	<property name="Weight" value="10" />
 	<property name="EquipSlot" value="Legs" />
@@ -3305,6 +3308,7 @@ Item ID ranges:       Master items (if applicable) are listed at the start of th
 </item>
 
 <item id="394" name="militaryVest"> <!-- militaryArmor -->
+	<property name="Insulation" value="0"/>
 	<property name="Extends" value="militaryGloves" />
 	<property name="Weight" value="10" />
 	<property name="EquipSlot" value="Chest" />
