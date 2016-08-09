@@ -7227,7 +7227,7 @@ Item ID ranges:       Master items (if applicable) are listed at the start of th
 </item>
 
 
-<item id="10001" name="superPickaxeSteel">
+<item id="1501" name="superPickaxeSteel">
 	<property name="Extends" value="pickaxeIron" />
 	<property name="Meshfile" value="Items/Tools/pickaxe_steelPrefab" />
 	<property name="HoldType" value="4" />
